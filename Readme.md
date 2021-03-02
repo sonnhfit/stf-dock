@@ -46,6 +46,8 @@ sudo usermod -aG docker $USER
 
 
 # Cài docker compose 
+link cài đặt chính thức tại [install docker compose](https://docs.docker.com/compose/install/#install-compose)
+
 
 
 # Usage
