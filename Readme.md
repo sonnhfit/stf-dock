@@ -5,6 +5,9 @@ PoC for STF deployment on a single machine
 * install docker
 * install docker-compose
 * clone this repo
+* config 
+* build 
+
 # Cài docker
 gõ từng lệnh bên dưới hoặc xem tại link chính thức [install docker](https://docs.docker.com/engine/install/ubuntu/)
 ```
