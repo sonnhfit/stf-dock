@@ -43,6 +43,11 @@ Cấp quyền cho lệnh docker
 ```
 sudo usermod -aG docker $USER
 ```
+
+
+# Cài docker compose 
+
+
 # Usage
 choose an IP your deployment should use, usually that will be the IP of your host.  
 choose a secret to be used for inter-service authentication.  
