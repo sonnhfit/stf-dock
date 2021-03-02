@@ -63,8 +63,4 @@ sửa địa chỉ IP ở trong file `.env` thành địa chỉ của máy
 Run `docker-compose up -d --build` 
 # sử dụng 
 Gõ địa chỉ ip đã cài đặt vào trình duyệt,  
-đăng nhập 
-```
-admin
-admin@example.com
-```
+đăng nhập bằng bất kỳ địa chỉ email nào hợp lệ 
