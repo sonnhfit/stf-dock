@@ -1,5 +1,4 @@
-PoC for STF deployment on a single machine
-===========
+
 # Installation
 
 * install docker
