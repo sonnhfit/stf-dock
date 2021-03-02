@@ -6,7 +6,7 @@ PoC for STF deployment on a single machine
 * install docker-compose
 * clone this repo
 # Cài docker
-gõ lệnh bên dưới hoặc xem tại link chính thức [install docker](https://docs.docker.com/engine/install/ubuntu/)
+gõ từng lệnh bên dưới hoặc xem tại link chính thức [install docker](https://docs.docker.com/engine/install/ubuntu/)
 ```
 $ sudo apt-get update
 
@@ -38,6 +38,10 @@ $ sudo add-apt-repository \
 $ sudo apt-get update
 $ sudo apt-get install docker-ce docker-ce-cli containerd.io
 
+```
+Cấp quyền cho lệnh docker 
+```
+sudo usermod -aG docker $USER
 ```
 # Usage
 choose an IP your deployment should use, usually that will be the IP of your host.  
