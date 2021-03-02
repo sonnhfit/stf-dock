@@ -64,3 +64,7 @@ Run `docker-compose up -d --build`
 # sử dụng 
 Gõ địa chỉ ip đã cài đặt vào trình duyệt,  
 đăng nhập bằng bất kỳ địa chỉ email nào hợp lệ 
+
+- Bật chế độ debug trên điện thoại android (chưa hỗ trợ android 10)
+- cắm thiết bị vào 
+
