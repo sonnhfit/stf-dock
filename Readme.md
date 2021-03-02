@@ -57,10 +57,8 @@ sudo curl -L "https://github.com/docker/compose/releases/download/1.28.5/docker-
 sudo chmod +x /usr/local/bin/docker-compose
 ```
 
-# Usage
-choose an IP your deployment should use, usually that will be the IP of your host.  
-choose a secret to be used for inter-service authentication.  
-Update the `.env` file accordingly
+# config 
+sửa địa chỉ IP ở trong file `.env` thành địa chỉ của máy
 
 Run `docker-compose up -d --build`  
 Point your browser to the IP you chose,  
